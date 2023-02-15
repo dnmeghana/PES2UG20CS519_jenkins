@@ -16,7 +16,7 @@ pipeline {
 	      sh 'echo "This is my Deploy step"'
 	    }
 	  }
-	}
+	
 	post { 
 		failure { 
 			echo 'Pipeline failed'
