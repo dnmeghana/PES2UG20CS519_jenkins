@@ -42,3 +42,9 @@ If you want to test the Docker setup manually on your machine without running Je
    ```bash
    git clone [https://github.com/dnmeghana/PES2UG20CS519_jenkins.git](https://github.com/dnmeghana/PES2UG20CS519_jenkins.git)
    cd PES2UG20CS519_jenkins
+2. **Clone the repository:**
+   ```bash
+   docker build -t cpp-jenkins-app .
+3. **Run the Container:**
+   ```bash
+   docker build -t cpp-jenkins-app .
